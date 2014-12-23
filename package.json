@@ -1,0 +1,15 @@
+{
+  "name": "FizzBuzz",
+  "version": "0.0.1",
+  "description": "FizzBuzz Client Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "Richard van der Dys <richard.vanderdys@gmail.com> (http://richardvanderdys.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~2.1.0",
+    "should": "~4.4.1"
+  }
+}
